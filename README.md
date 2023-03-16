@@ -1,2 +1,2 @@
 # First_repo
-First repository to learn Git command
+First repository to learn Git command!
